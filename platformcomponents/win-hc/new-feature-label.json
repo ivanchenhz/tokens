@@ -1,0 +1,30 @@
+{
+  "newFeature": {
+    "badge": {
+      "#normal": {
+        "border": "@theme-button-border-normal",
+        "text": "@theme-common-hc-highlight"
+      }
+    },
+    "badgeWithBorder": {
+      "#normal": {
+        "border": "@theme-button-border-normal"
+      }
+    },
+    "tag": {
+      "#normal": {
+        "border": "@theme-button-border-normal",
+        "background": "@theme-background-secondary-normal"
+      }
+    },
+    "banner": {
+      "#normal": {
+        "background": "@theme-common-hc-highlight",
+        "text": "@theme-text-inverted-normal",
+        "newFeatureIcon": "@theme-text-inverted-normal",
+        "helpTipIcon": "@theme-text-inverted-normal",
+        "shortcutTipIcon": "@theme-text-inverted-normal"
+      }
+    }
+  }
+}
